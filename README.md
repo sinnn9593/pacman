@@ -1,4 +1,4 @@
-# 🕹️ Pygame版 Pac-Man 技術解説（洗練版）
+# 🕹️ Pygame版 Pac-Man 技術解説
 
 ## 1. アーキテクチャ - エンティティ駆動型 & 状態遷移型アーキテクチャ
 
@@ -154,3 +154,24 @@ Pygameによるレトロゲーム制作の**実践教材**としても最適で�
 
 ---
 
+# Snake Gameのプレイ方法
+
+## 必要なもの
+
+- Python 3.x
+- Pygameライブラリ
+
+## インストール方法
+
+# リポジトリをクローンします。
+
+```bash
+git clone https://github.com/sinnn9593/snake-game.git
+cd snake-game
+
+2.パッケージインストール
+pip install pygame
+
+3.ゲームの実行
+python main.py
+```
